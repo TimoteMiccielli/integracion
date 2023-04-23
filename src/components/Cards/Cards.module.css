@@ -1,0 +1,14 @@
+
+
+.cards {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    
+    
+  }
+
+  .cards:hover{
+    transform: scale (1.1);
+  }
+  
+  
